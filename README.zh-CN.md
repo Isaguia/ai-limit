@@ -24,7 +24,7 @@
 ### 安装
 
 ```bash
-git clone https://github.com/isaguia/ai-limit.git ~/ai-limit
+git clone https://github.com/Isaguia/ai-limit.git ~/ai-limit
 cd ~/ai-limit
 pip install -r requirements.txt   # browser-cookie3 仅 Claude 实时额度需要
 ```
@@ -109,7 +109,7 @@ bash make-dmg.sh
 有 Release 之后，用户即可一键安装：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/isaguia/ai-limit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Isaguia/ai-limit/main/install.sh | bash
 ```
 
 菜单栏功能：中英文切换 · Claude 的 5h/7d 窗口切换 · 按服务显示/隐藏 · 立即刷新 · 开机自启。
