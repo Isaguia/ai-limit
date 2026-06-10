@@ -4,7 +4,6 @@ English | [中文说明](README.zh-CN.md)
 
 A lightweight tool to monitor real-time **Claude Code** quota and **DeepSeek** balance, plus token consumption — so you can adjust your AI usage before running out of quota or balance. Available as a CLI or a macOS menu bar app.
 
-> Adapted from [zhuchenxi113/ai-limit](https://github.com/zhuchenxi113/ai-limit) (which monitors Claude Code + Codex), reworked to monitor **Claude Code + DeepSeek**.
 
 ## What it shows
 
