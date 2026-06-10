@@ -4,8 +4,6 @@
 
 一个轻量工具，实时查看 **Claude Code** 额度与 **DeepSeek** 余额，以及二者的 token 消耗——在额度或余额用尽前及时调整 AI 使用节奏。提供命令行（CLI）和 macOS 菜单栏 App 两种形态。
 
-> 基于 [zhuchenxi113/ai-limit](https://github.com/zhuchenxi113/ai-limit)（监控 Claude Code + Codex）改造，改为监控 **Claude Code + DeepSeek**。
-
 ## 能看到什么
 
 | 服务 | 实时额度 / 余额 | Token 消耗 |
