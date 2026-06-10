@@ -25,7 +25,7 @@ A lightweight tool to monitor real-time **Claude Code** quota and **DeepSeek** b
 ### Install
 
 ```bash
-git clone https://github.com/aguithub/ai-limit.git ~/ai-limit
+git clone https://github.com/Isaguia/ai-limit.git ~/ai-limit
 cd ~/ai-limit
 pip install -r requirements.txt   # browser-cookie3 only needed for Claude live quota
 ```
@@ -110,7 +110,7 @@ bash make-dmg.sh
 Once a release exists, users can one-line install:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aguithub/ai-limit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Isaguia/ai-limit/main/install.sh | bash
 ```
 
 Menu bar features: Chinese/English toggle · 5h/7d window toggle for Claude · per-service show/hide · manual refresh · launch at login.
